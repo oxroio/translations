@@ -22,8 +22,6 @@ Whilst you may be lucky enough to understand English to a certain degree, others
 
 5. When you've finished translating some or all of the "keys", [create a pull request](https://guides.github.com/activities/forking/#making-a-pull-request) so we can implement it into our official Repository and have it reflected across our platform. Within a pull request, please leave the information required for us to add you to the sites credit (Your Name/Alias and [optionally] your website/social platform) and/or your Oxro username so we can add your rewards to your account.
 
-
-
 ## What file am I looking for?
 
 If you're looking to translate messages for the API (messages the user receives after performing a task - e.g registration) - see the `api/` directory. Each language has it's own file.
@@ -31,3 +29,26 @@ If you're looking to translate messages for the API (messages the user receives 
 If you're looking to translate messages for the site's pages, see the `front/` directory. Each language has it's own directory and within that are files for each page (e.g `landing.oxro` for the landing/home page).
 
 If you're looking to translate messages for the Emails sent to user's, see the `mail/` directory. Each language has it's own file.
+
+## Formatting
+
+If you'd like to add another line e.g
+
+```
+line1
+line2
+```
+
+It can be achieved like: `multiline = "line1\nline2` where `\n` represents the new line. **Do not literally press enter for a new line.** Keep it all in one.
+
+This is handy in email templates.
+
+## Variables
+
+Variables can also be used in email templates. Paste them in exactly as they are.
+
+`{{fromUser}}`: The user that caused such an email to send (invitation e.t.c)
+
+`{{storefront}}`: The name of the storefront that caused such an email to send (invitation e.t.c).
+
+`{{link}}`: The link associated with the action of the email (e.g activation link) **Only to be used in plaintext (non HTML) emails**

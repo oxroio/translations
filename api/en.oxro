@@ -1,0 +1,28 @@
+//General Translations
+
+//The literal translation for a field (input field)
+field = "field"
+username = "username"
+password = "password"
+characters = "characters"
+
+//Messages
+
+//General
+//Characters is already translated. Don't add it here.
+input.short = "Too short, must be at least"
+input.long = ""
+input.invalid = "Invalid"
+
+//Account
+account.creation.success = ""
+account.creation.fail = ""
+account.login.success = ""
+account.login.fail = ""
+account.passwordreset.requested = ""
+account.passwordreset.success = ""
+account.passwordreset.fail = ""
+account.passwordchange.success = ""
+account.passwordchange.fail = ""
+account.activation.success = ""
+account.activation.fail = ""

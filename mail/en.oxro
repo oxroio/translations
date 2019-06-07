@@ -1,0 +1,30 @@
+//Greetings
+hello = "Hello"
+welcome = "Welcome"
+thanks = "Thanks"
+kindregards = "Kind Regards"
+
+//Account Created (please activate)
+account.created.body = ""
+account.created.plain = ""
+account.created.buttonText = "Activate Account"
+
+//Account password reset
+account.passwordreset.body = ""
+account.passwordreset.plain = ""
+account.passwordreset.buttonText = ""
+
+//Account new location
+account.newlocation.body = ""
+account.newlocation.plain = ""
+account.newlocation.buttonText = ""
+
+//Invited to control storefront
+invite.control.body = ""
+invite.control.plain = ""
+invite.control.buttonText = ""
+
+//Invited to join oxro
+invite.join.body = ""
+invite.join.plain = ""
+invite.join.buttonText = ""
