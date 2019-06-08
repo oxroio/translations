@@ -15,14 +15,12 @@ input.long = "Too long, must be less than"
 input.invalid = "Invalid Input"
 
 //Account
-account.creation.success = "Account created"
-account.creation.fail = "Failed to create account"
+account.creation.success = "Account created, please check your email."
 account.login.success = "Logged in"
-account.login.fail = "Login failed"
-account.passwordreset.requested = "Password reset instructions sent to email"
+account.passwordreset.requested = "Password reset instructions have been sent to your Email"
 account.passwordreset.success = "Password reset"
-account.passwordreset.fail = "Password reset failed"
 account.passwordchange.success = "Password changed"
-account.passwordchange.fail = "Failed to change password"
 account.activation.success = "Account activated"
-account.activation.fail = "Failed to activate account"
+
+//Errors
+error.unknown = "An unknown error occured, try again?"
