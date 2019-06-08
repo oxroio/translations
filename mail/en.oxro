@@ -6,30 +6,29 @@ kindregards = "Kind Regards"
 
 //Account Created (please activate)
 account.created.body = "An account for Oxro was created under this email. If you don't recognize this activity, you can disregard this email./nIf it was, please click on the button below to activate your account and get started:"
-account.created.plain = "If it was, please paste the following link in your browser to activate your account and get started: {{link}}"
+account.created.plain = "An account for Oxro was created under this email. If you don't recognize this activity, you can disregard this email./nIf it was, please paste the following link in your browser to activate your account and get started: {{link}}"
 account.created.buttonText = "Activate Account"
 
 //Account password reset
 account.passwordreset.body = "You requested a password reset for a forgotten password. If you did not request a password reset, you can disregard this email. To proceed, click on the button below./nThe request will expire in 1 hour."
-account.passwordreset.plain = "To proceed, paste the following link in your browser: {{link}}/nThe link will expire in 1 hour."
+account.passwordreset.plain = "You requested a password reset for a forgotten password. If you did not request a password reset, you can disregard this email. To proceed, paste the following link in your browser: {{link}}/nThe link will expire in 1 hour."
 account.passwordreset.buttonText = "Reset Password"
 
 //Account new location
 account.newlocation.body = "There was a new login location detected for your account. The security of your account and information is our priority, so we suggest you review the IP and location below and confirm this is you. If this does not look like you, please consider changing your password and/or the method of your Two Factor Authentication./nPlease confirm this location and device by clicking the button below."
-account.newlocation.plain = "Please confirm this location and device by pasting the following link in your browser: {{link}}"
+account.newlocation.plain = "There was a new login location detected for your account. The security of your account and information is our priority, so we suggest you review the IP and location below and confirm this is you. If this does not look like you, please consider changing your password and/or the method of your Two Factor Authentication./nPlease confirm this location and device by pasting the following link in your browser: {{link}}"
 account.newlocation.buttonText = "Confirm Location"
 
 //Invited to control storefront
 invite.control.body = "{{fromUser}} has invited you to control {{storefront}}! To accept, click on the button below."
-invite.control.plain = "To accept, paste the following link in your browser: {{link}}"
+invite.control.plain = "{{fromUser}} has invited you to control {{storefront}}! To accept, paste the following link in your browser: {{link}}"
 invite.control.buttonText = "Accept Invite"
 
 //Invited to join oxro
 invite.join.body = "{{fromUser}} has invited you to join Oxro! Access the invitation by clicking on the button below."
-invite.join.plain = "Access the invitation by pasting the link in your browser: {{link}}"
+invite.join.plain = "{{fromUser}} has invited you to join Oxro! Access the invitation by pasting the link in your browser: {{link}}"
 invite.join.buttonText = "Accept Invite"
 
 //Invited to join oxro beta
-invite.beta.body= "You have been invited by the Oxro team to join Oxro! Click the button below to sign up to access an exclusive look and experience of Oxro."
-invite.beta.plain = "Paste the following link in your browser to sign up to access an exclusive look and experience of Oxro: {{link}}"
-invite.beta.buttonText = "Accept Invite"
+invite.beta.body= "You have been invited by the Oxro team to join Oxro! Paste the following link in your browser to sign up to access an exclusive look and experience of Oxro: {{link}}"
+invite.beta.plain = "You have been invited by the Oxro team to join Oxro! Paste the following link in your browser to sign up to access an exclusive look and experience of Oxro: {{link}}"
