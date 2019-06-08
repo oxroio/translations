@@ -24,7 +24,7 @@ input.long = "Too long, must be less than"
 //Account
 account.creation.success = "Account created, please check your email."
 account.login.success = "Logged in"
-account.passwordreset.requested = "Password reset instructions have been sent to your Email"
+account.passwordreset.requested = "Password reset instructions have been sent to your email."
 account.passwordreset.success = "Password reset"
 account.passwordchange.success = "Password changed"
 account.activation.success = "Account activated"
