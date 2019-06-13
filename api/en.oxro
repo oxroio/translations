@@ -35,3 +35,4 @@ account.activation.success = "Account activated"
 
 //Errors
 error.unknown = "An unknown error occured, try again?"
+error.notfound = "Endpoint not found, check your spelling?"
