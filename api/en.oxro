@@ -22,8 +22,8 @@ valid = "Valid"
 
 //General
 //Characters is already translated. Don't add it here.
-input.short = "Too short, must be at least"
-input.long = "Too long, must be less than"
+input.short = "Must be at least"
+input.long = "Must be less than"
 
 //Account
 account.creation.success = "Account created, please check your email."
