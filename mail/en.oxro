@@ -11,14 +11,14 @@ account.created.buttonText = "Activate Account"
 account.created.subject = "Activate your Oxro account"
 
 //Account password reset
-account.passwordreset.body = "You requested a password reset for a forgotten password. If you did not request a password reset, you can disregard this email. To proceed, click on the button below.\nThe request will expire in 1 hour."
-account.passwordreset.plain = "You requested a password reset for a forgotten password. If you did not request a password reset, you can disregard this email. To proceed, paste the following link in your browser: {{link}}. The link will expire in 1 hour."
-account.passwordreset.buttonText = "Reset Password"
+account.password_reset.body = "You requested a password reset for a forgotten password. If you did not request a password reset, you can disregard this email. To proceed, click on the button below.\nThe request will expire in 1 hour."
+account.password_reset.plain = "You requested a password reset for a forgotten password. If you did not request a password reset, you can disregard this email. To proceed, paste the following link in your browser: {{link}}. The link will expire in 1 hour."
+account.password_reset.buttonText = "Reset Password"
 
 //Account new location
-account.newlocation.body = "There was a new login location detected for your account. The security of your account and information is our priority, so we suggest you review the IP and location below and confirm this is you. If this does not look like you, please consider changing your password and/or the method of your Two Factor Authentication.\nPlease confirm this location and device by clicking the button below."
-account.newlocation.plain = "There was a new login location detected for your account. The security of your account and information is our priority, so we suggest you review the IP and location below and confirm this is you. If this does not look like you, please consider changing your password and/or the method of your Two Factor Authentication. Please confirm this location and device by pasting the following link in your browser: {{link}}"
-account.newlocation.buttonText = "Confirm Location"
+account.new_location.body = "There was a new login location detected for your account. The security of your account and information is our priority, so we suggest you review the IP and location below and confirm this is you. If this does not look like you, please consider changing your password and/or the method of your Two Factor Authentication.\nPlease confirm this location and device by clicking the button below."
+account.new_location.plain = "There was a new login location detected for your account. The security of your account and information is our priority, so we suggest you review the IP and location below and confirm this is you. If this does not look like you, please consider changing your password and/or the method of your Two Factor Authentication. Please confirm this location and device by pasting the following link in your browser: {{link}}"
+account.new_location.buttonText = "Confirm Location"
 
 //Invited to control storefront
 invite.control.body = "{{fromUser}} has invited you to control {{storefront}}! To accept, click on the button below."
