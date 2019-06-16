@@ -47,6 +47,8 @@ This is handy in email templates.
 
 Variables can also be used in email templates. Paste them in exactly as they are.
 
+`{{username}}`: The user this email is for
+
 `{{fromUser}}`: The user that caused such an email to send (invitation e.t.c)
 
 `{{storefront}}`: The name of the storefront that caused such an email to send (invitation e.t.c).
