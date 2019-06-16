@@ -6,7 +6,7 @@ kindregards = "Kind Regards"
 
 //Account Created (please activate)
 account.created.body = "An account for Oxro was created under this email. If you don't recognize this activity, you can disregard this email.\nIf it was, please click on the button below to activate your account and get started:"
-account.created.plain = "An account for Oxro was created under this email. If you don't recognize this activity, you can disregard this email.If it was, please paste the following link in your browser to activate your account and get started: {{link}}"
+account.created.plain = "An account for Oxro was created under this email. If you don't recognize this activity, you can disregard this email. If it was, please paste the following link in your browser to activate your account and get started: {{link}}"
 account.created.buttonText = "Activate Account"
 account.created.title = "Activate Account"
 account.created.subject = "Activate Your Oxro Account"
