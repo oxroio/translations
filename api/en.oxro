@@ -32,6 +32,7 @@ account.passwordreset.requested = "Password reset instructions have been sent to
 account.passwordreset.success = "Password reset"
 account.passwordchange.success = "Password changed"
 account.activation.success = "Account activated"
+account.activation.resent = "A new activation email has been sent to your email."
 
 //Errors
 error.unknown = "An unknown error occured, try again?"
