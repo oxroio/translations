@@ -16,8 +16,8 @@ account.created.title = "Activate Account"
 account.created.subject = "Activate Your Oxro Account"
 
 //Account password reset
-account.password_reset.body = "You requested a password reset for a forgotten password. If you did not request a password reset, you can disregard this email. To proceed, click on the button below.\nThe request will expire in 1 hour."
-account.password_reset.plain = "You requested a password reset for a forgotten password. If you did not request a password reset, you can disregard this email. To proceed, paste the following link in your browser: {{link}}. The link will expire in 1 hour."
+account.password_reset.body = "You requested a password reset for a forgotten password. To proceed, click on the button below. However, if you did not request a password reset, you can disregard this email and nothing further will become of it.\nThis will expire in 10 minutes."
+account.password_reset.plain = "You requested a password reset for a forgotten password. To proceed, paste the following link in your browser: {{link}}. However, if you did not request a password reset, you can disregard this email and nothing further will become of it. This link will expire in 10 minutes."
 account.password_reset.buttonText = "Reset Password"
 account.password_reset.subject = "Oxro Password Recovery" 
 
