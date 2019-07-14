@@ -16,10 +16,10 @@ account.created.title = "Activate Account"
 account.created.subject = "Activate Your Oxro Account"
 
 //Account password reset
-account.password_reset.body = "You requested a password reset for a forgotten password. To proceed, click on the button below. However, if you did not request a password reset, you can disregard this email and nothing further will become of it.\nThis will expire in 10 minutes."
-account.password_reset.plain = "You requested a password reset for a forgotten password. To proceed, paste the following link in your browser: {{link}}. However, if you did not request a password reset, you can disregard this email and nothing further will become of it. This link will expire in 10 minutes."
+account.password_reset.body = "It looks like you've lost your password. Don't worry, luckily you can reset it by clicking on the button below. However, if you did not request a password reset, you can disregard this email and nothing further will become of it.\nThis will expire in 10 minutes."
+account.password_reset.plain = "It looks like you've lost your password. Don't worry, luckily you can reset it by clicking on the following link in your browser: {{link}}. However, if you did not request a password reset, you can disregard this email and nothing further will become of it. This link will expire in 10 minutes."
 account.password_reset.buttonText = "Reset Password"
-account.password_reset.subject = "Oxro Password Recovery" 
+account.password_reset.subject = "Recover your Oxro Password" 
 
 //Account new location
 account.new_location.body = "There was a new login location detected for your account. The security of your account and information is our priority, so we suggest you review the IP and location below and confirm this is you. If this does not look like you, please consider changing your password and/or the method of your Two Factor Authentication.\nPlease confirm this location and device by clicking the button below."
