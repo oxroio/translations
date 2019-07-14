@@ -28,6 +28,7 @@ input.long = "Must be less than"
 //Account
 account.creation.success = "Account created, please check your email."
 account.login.success = "Logged in"
+account.logout_all = "Logged out of all sessions"
 account.passwordreset.requested = "Password reset instructions have been sent to your email."
 account.passwordreset.success = "Password reset"
 account.passwordchange.success = "Password changed"
