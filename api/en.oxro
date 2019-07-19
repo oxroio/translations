@@ -3,6 +3,7 @@
 //API status (uppercase)
 ok = "OK"
 failing = "FAILING"
+hi = "hi"
 
 //The literal translation for a field (input field)
 
