@@ -35,6 +35,9 @@ account.passwordchange.success = "Password changed"
 account.activation.success = "Account activated"
 account.activation.resent = "A new activation email has been sent to your email."
 account.magic_link.requested = "A magic link has been sent to your email."
+account.tfa.backup = "Recovery codes are used to access your account in the event you cannot receive two-factor authentication codes. Please save them somewhere safe before you continue."
+account.tfa.scan = "Scan the image above with the two-factor authentication app on your phone. If you can’t use a barcode, enter the text code below instead."
+account.tfa.success = "Two Factor Authentication has successfully been enabled on your account."
 
 //Errors
 error.unknown = "An unknown error occured, try again?"
