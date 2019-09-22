@@ -39,7 +39,7 @@ invite.join.buttonText = "Accept Invite"
 //Magic link login
 account.magic_link.body = "You requested to authenticate yourself without a password via a magic link. If this was indeed you and you wish to proceed, please click the button below. If not, you can safely ignore this email."
 account.magic_link.plain = "You requested to authenticate yourself without a password via a magic link. If this was indeed you and you wish to proceed, please follow this link: {{link}}. If not, you can safely ignore this email."
-account.magic_link.buttonText = "Magically Login"
+account.magic_link.buttonText = "Authenticate myself"
 account.magic_link.title = "Authenticate yourself"
 account.magic_link.subject = "Oxro Passwordless Authentication Request"
 
