@@ -36,6 +36,11 @@ invite.join.body = "{{fromUser}} has invited you to join Oxro! Access the invita
 invite.join.plain = "{{fromUser}} has invited you to join Oxro! Access the invitation by pasting the link in your browser: {{link}}"
 invite.join.buttonText = "Accept Invite"
 
+//Magic link login
+account.magic_link.body = "You requested passwordless authentication via a magic link. If this was indeed you and you wish to proceed, please click the button below. If not, you can safely ignore this email."
+account.magic_link.plain = "You requested passwordless authentication via a magic link. If this was indeed you and you wish to proceed, please follow this link: {{link}}. If not, you can safely ignore this email."
+account.magic_link.buttonText = "Authenticate myself"
+
 //Invited to join oxro beta
 invite.beta.body= "You have been invited by the Oxro team to join Oxro! Click on the button below to sign up to access an exclusive look and experience of Oxro!"
 invite.beta.plain = "You have been invited by the Oxro team to join Oxro! Paste the following link in your browser to sign up to access an exclusive look and experience of Oxro: {{link}}"
