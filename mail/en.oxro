@@ -45,5 +45,5 @@ account.magic_link.subject = "Oxro Passwordless Authentication Request"
 
 //Invited to join oxro beta
 invite.beta.body= "You have been invited by the Oxro team to join Oxro! Click on the button below to sign up to access an exclusive look and experience of Oxro!"
-invite.beta.plain = "You have been invited by the Oxro team to join Oxro! Paste the following link in your browser to sign up to access an exclusive look and experience of Oxro: {{link}}"
+invite.beta.plain = "You have been invited by the Oxro team to join Oxro! Paste the following link in your browser to sign up to access an exclusive look and experience of Oxro: {{link}}."
 invite.beta.buttonText = "Accept Invite"
