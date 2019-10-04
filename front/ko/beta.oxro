@@ -11,9 +11,9 @@ request = "Request Early Access"
 //Sadly two parts as second part is a link
 consenting = "By requesting updates, you're consenting to our"
 
-privacy_policy = "Privacy Policy"
+privacy_policy = "개인정보 처리방침"
 
-done = "Done!" 
+done = "완료!" 
 
 success = "Thank you for your interest! You will receive an email when our first public beta becomes available."
 
@@ -27,5 +27,5 @@ typing.five = "Scams"
 typing.five_p2 = " - undefined."
 
 //errors
-error.invalid_email = "Invalid email."
+error.invalid_email = "무효 email."
 error.exists = "This Email has already been signed up."
