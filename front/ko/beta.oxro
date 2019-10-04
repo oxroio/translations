@@ -1,10 +1,10 @@
-title = "Business tools, redefined"
+title = "비즈니스 툴, redefined"
 
-summary = "An agile, affordable and ethical platform for your e-commerce needs."
+summary = "전자 상거래 요구에 맞는 민첩하고 경제적이며 윤리적 인 플랫폼."
 
-description = "Oxro is perfect for anyone requiring a shopfront system amongst avariety of other tools. Unlike leading e-commerce platforms, Oxro offers low fees, fully customizable shopfronts, scam protection, andflexible payment methods. Finally, your business is in your hands."
+description = "Oxro는 다양한 도구 중에서 상점 시스템이 필요한 모든 사람에게 적합합니다. Unlike leading e-commerce platforms, Oxro offers low fees, fully customizable shopfronts, scam protection, andflexible payment methods. Finally, your business is in your hands."
 
-interested = "Are you interested?"
+interested = "관심이 있습니까?"
 
 request = "조기 액세스 요청"
 
@@ -18,14 +18,14 @@ done = "완료!"
 success = "관심을 가져 주셔서 감사합니다! 첫 공개 베타 버전이 출시되면 이메일을 보내드립니다."
 
 //Typing animation text
-typing.one = "Business tools, redefined."
-typing.two = "Donation pages, redefined."
-typing.three = "Drop shipping, redefined."
-typing.four = "Support Systems, redefined."
+typing.one = "비즈니스 툴, redefined."
+typing.two = "기부 페이지, redefined."
+typing.three = "하락 선박, redefined."
+typing.four = "지원 시스템, redefined."
 typing.four_p2 = " - with 인공 지능."
 typing.five = "사기"
 typing.five_p2 = " - undefined."
 
 //errors
-error.invalid_email = "무효 email."
+error.invalid_email = "무효한 이메일."
 error.exists = "이 이메일은 이미 가입했습니다."
