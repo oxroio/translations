@@ -9,7 +9,7 @@ interested = "Are you interested?"
 request = "Request Early Access"
 
 //Sadly two parts as second part is a link
-consenting = "By requesting updates, you're consenting to our"
+consenting = "By requesting updates, you're consenting to our {{privacy_link}}"
 
 privacy_policy = "Privacy Policy"
 
