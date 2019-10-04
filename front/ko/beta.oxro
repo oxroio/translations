@@ -9,7 +9,7 @@ interested = "관심이 있습니까?"
 request = "조기 액세스 요청"
 
 //Sadly two parts as second part is a link
-consenting = "업데이트를 요청하면, you're consenting to our"
+consenting = "업데이트를 요청하면, you're consenting to our {{privacy_link}}"
 
 privacy_policy = "개인정보 처리방침"
 
