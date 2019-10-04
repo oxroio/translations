@@ -6,26 +6,26 @@ description = "Oxro is perfect for anyone requiring a shopfront system amongst a
 
 interested = "Are you interested?"
 
-request = "Request Early Access"
+request = "조기 액세스 요청"
 
 //Sadly two parts as second part is a link
-consenting = "By requesting updates, you're consenting to our"
+consenting = "업데이트를 요청하면, you're consenting to our"
 
 privacy_policy = "개인정보 처리방침"
 
 done = "완료!" 
 
-success = "Thank you for your interest! You will receive an email when our first public beta becomes available."
+success = "관심을 가져 주셔서 감사합니다! 첫 공개 베타 버전이 출시되면 이메일을 보내드립니다."
 
 //Typing animation text
 typing.one = "Business tools, redefined."
 typing.two = "Donation pages, redefined."
 typing.three = "Drop shipping, redefined."
 typing.four = "Support Systems, redefined."
-typing.four_p2 = " - with AI."
-typing.five = "Scams"
+typing.four_p2 = " - with 인공 지능."
+typing.five = "사기"
 typing.five_p2 = " - undefined."
 
 //errors
 error.invalid_email = "무효 email."
-error.exists = "This Email has already been signed up."
+error.exists = "이 이메일은 이미 가입했습니다."
