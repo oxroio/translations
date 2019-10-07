@@ -9,7 +9,7 @@ interested = "Le interesa?"
 request = "Solicitar acceso anticipado"
 
 //Sadly two parts as second part is a link
-consenting = "By requesting updates, you're consenting to our {{privacy_link}}"
+consenting = "Al solicitar actualizaciones, usted está consintizando a nuestra {{privacy_link}}"
 
 privacy_policy = "Política de Privacidad"
 
@@ -18,14 +18,14 @@ done = "Hecho!"
 success = "Gracias por su interés! Recibirá un correo electrónico cuando nuestra primera versión beta pública esté disponible."
 
 //Typing animation text
-typing.one = "Business tools, redefined."
-typing.two = "Donation pages, redefined."
-typing.three = "Drop shipping, redefined."
-typing.four = "Support Systems, redefined."
-typing.four_p2 = " - with AI."
-typing.five = "Scams"
-typing.five_p2 = " - undefined."
+typing.one = "Herramientas de negocio, redefinidas."
+typing.two = "Páginas de donación, redefinidas"
+typing.three = "Envío de la gota, redefinido."
+typing.four = "Sistemas de soporte, redefinidos."
+typing.four_p2 = " - con inteligencia artificial."
+typing.five = "Estafas"
+typing.five_p2 = " - indefinidas."
 
 //errors
-error.invalid_email = "Invalid email."
-error.exists = "This Email has already been signed up."
+error.invalid_email = "Correo electrónico no válido."
+error.exists = "Este correo electrónico ya se ha registrado."
