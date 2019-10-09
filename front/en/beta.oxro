@@ -13,6 +13,8 @@ consenting = "By requesting updates, you're consenting to our {{privacy_link}}"
 
 privacy_policy = "Privacy Policy"
 
+email = "Email"
+
 done = "Done!" 
 
 success = "Thank you for your interest! You will receive an email when our first public beta becomes available."
