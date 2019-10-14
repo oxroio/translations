@@ -1,49 +1,49 @@
 //Greetings
-hello = "Hello"
-welcome = "Welcome"
-thanks = "Thanks"
-kindregards = "Kind Regards"
+hello = "Hola"
+welcome = "Bienvenido"
+thanks = "Gracias"
+kindregards = "Buenos Deseos"
 
 //Mail footer
-contact = "Contact & Support"
-copyright = "Copyright (c) 2019 Oxro, LTD. All rights reserved."
+contact = "Contacto & Soporte"
+copyright = "Copyright (c) 2019 Oxro, LTD. Todos los derechos reservados."
 
 //Account Created (please activate)
-account.created.body = "An account for Oxro was created under this email. If you don't recognize this activity, you can disregard this email.\nIf it was, please click on the button below to activate your account and get started:"
-account.created.plain = "An account for Oxro was created under this email. If you don't recognize this activity, you can disregard this email. If it was, please paste the following link in your browser to activate your account and get started: {{link}}"
-account.created.buttonText = "Activate Account"
-account.created.title = "Activate Account"
-account.created.subject = "Activate Your Oxro Account"
+account.created.body = "Se creó una cuenta para Oxro en este correo electrónico. Si no reconoce esta actividad, puede ignorar este correo electrónico.\nSi lo fuera, haga clic en el botón de abajo para activar su cuenta y empezar:"
+account.created.plain = "Se creó una cuenta para Oxro en este correo electrónico. Si no reconoce esta actividad, puede ignorar este correo electrónico. Si es así, pegue el siguiente enlace en su navegador para activar su cuenta y empezar: {{link}}"
+account.created.buttonText = "Activar Cuenta"
+account.created.title = "Activar Cuenta"
+account.created.subject = "Activar su cuenta de Oxro"
 
 //Account password reset
 account.password_reset.body = "It looks like you've lost your password. Don't worry, luckily you can reset it by clicking on the button below. However, if you did not request a password reset, you can disregard this email and nothing further will become of it.\nThis will expire in 10 minutes."
 account.password_reset.plain = "It looks like you've lost your password. Don't worry, luckily you can reset it by clicking on the following link in your browser: {{link}}. However, if you did not request a password reset, you can disregard this email and nothing further will become of it. This link will expire in 10 minutes."
-account.password_reset.buttonText = "Reset Password"
-account.password_reset.subject = "Recover your Oxro Password" 
+account.password_reset.buttonText = "Cambiar la contraseña"
+account.password_reset.subject = "Recupera tu contraseña de Oxro" 
 
 //Account new location
-account.new_location.body = "There was a new login location detected for your account. The security of your account and information is our priority, so we suggest you review the IP and location below and confirm this is you. If this does not look like you, please consider changing your password and/or the method of your Two Factor Authentication.\nPlease confirm this location and device by clicking the button below."
-account.new_location.plain = "There was a new login location detected for your account. The security of your account and information is our priority, so we suggest you review the IP and location below and confirm this is you. If this does not look like you, please consider changing your password and/or the method of your Two Factor Authentication. Please confirm this location and device by pasting the following link in your browser: {{link}}"
-account.new_location.buttonText = "Confirm Location"
+account.new_location.body = "Se detectó una nueva ubicación de inicio de sesión para su cuenta. La seguridad de su cuenta e información es nuestra prioridad, por lo que le sugerimos que revise la IP y la ubicación a continuación y confirme que es usted. Si esto no se parece a usted, considere cambiar su contraseña y/o el método de su Autenticación de Dos Factores.\nConfirme esta ubicación y dispositivo haciendo clic en el botón de abajo."
+account.new_location.plain = "Se detectó una nueva ubicación de inicio de sesión para su cuenta. La seguridad de su cuenta e información es nuestra prioridad, por lo que le sugerimos que revise la IP y la ubicación a continuación y confirme que es usted. Si esto no se parece a usted, considere cambiar su contraseña y/o el método de su Autenticación de Dos Factores. Please confirm this location and device by pasting the following link in your browser: {{link}}"
+account.new_location.buttonText = "Confirmar Ubicación"
 
 //Invited to control storefront
 invite.control.body = "{{fromUser}} has invited you to control {{storefront}}! To accept, click on the button below."
 invite.control.plain = "{{fromUser}} has invited you to control {{storefront}}! To accept, paste the following link in your browser: {{link}}"
-invite.control.buttonText = "Accept Invite"
+invite.control.buttonText = "Aceptar Invitación"
 
 //Invited to join oxro
-invite.join.body = "{{fromUser}} has invited you to join Oxro! Access the invitation by clicking on the button below."
-invite.join.plain = "{{fromUser}} has invited you to join Oxro! Access the invitation by pasting the link in your browser: {{link}}"
-invite.join.buttonText = "Accept Invite"
+invite.join.body = "{{fromUser}} se ha invitado a unirte a Oxro! Acceda a la invitación haciendo clic en el botón de abajo."
+invite.join.plain = "{{fromUser}} se ha invitado a unirte a Oxro! Access the invitation by pasting the link in your browser: {{link}}"
+invite.join.buttonText = "Aceptar Invitación"
 
 //Magic link login
-account.magic_link.body = "You requested to authenticate yourself without a password via a magic link. If this was indeed you and you wish to proceed, please click the button below. If not, you can safely ignore this email."
-account.magic_link.plain = "You requested to authenticate yourself without a password via a magic link. If this was indeed you and you wish to proceed, please follow this link: {{link}}. If not, you can safely ignore this email."
-account.magic_link.buttonText = "Authenticate myself"
-account.magic_link.title = "Authenticate yourself"
-account.magic_link.subject = "Oxro Passwordless Authentication Request"
+account.magic_link.body = "Se solicitó autenticarse sin contraseña a través de un enlace mágico. If this was indeed you and you wish to proceed, please click the button below. If not, you can safely ignore this email."
+account.magic_link.plain = "Se solicitó autenticarse sin contraseña a través de un enlace mágico. If this was indeed you and you wish to proceed, please follow this link: {{link}}. If not, you can safely ignore this email."
+account.magic_link.buttonText = "Autenticarme"
+account.magic_link.title = "Autentiquese"
+account.magic_link.subject = "Solicitud de autenticación sin contraseña de Oxro"
 
 //Invited to join oxro beta
 invite.beta.body= "You have been invited by the Oxro team to join Oxro! Click on the button below to sign up to access an exclusive look and experience of Oxro!"
 invite.beta.plain = "You have been invited by the Oxro team to join Oxro! Paste the following link in your browser to sign up to access an exclusive look and experience of Oxro: {{link}}."
-invite.beta.buttonText = "Accept Invite"
+invite.beta.buttonText = "Aceptar Invitación"
