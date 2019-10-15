@@ -8,14 +8,14 @@
 
 //Lowercase
 //field = "field"
-//username = "username"
-//password = "password"
+//username = "사용자 이름"
+//password = "비밀번호"
 //characters = "characters"
 //token = "token"
 
 //Case respective
-//invalid = "Invalid"
-//valid = "Valid"
+//invalid = "무효"
+//valid = "유효한"
 
 
 //Messages
@@ -26,18 +26,18 @@
 //input.long = "Must be less than"
 
 //Account
-//account.creation.success = "Account created, please check your email."
+//account.creation.success = "계정이 생성되었습니다. 이메일을 확인하십시오."
 //account.login.success = "Logged in"
-//account.logout_all = "Logged out of all sessions"
-//account.passwordreset.requested = "Password reset instructions have been sent to your email."
-//account.passwordreset.success = "Password reset"
-//account.passwordchange.success = "Password changed"
-//account.activation.success = "Account activated"
-//account.activation.resent = "A new activation email has been sent to your email."
-//account.magic_link.requested = "A magic link has been sent to your email."
-//account.tfa.backup = "Recovery codes are used to access your account in the event you cannot receive two-factor authentication codes. Please save them somewhere safe before you continue."
-//account.tfa.scan = "Scan the image above with the two-factor authentication app on your phone. If you can’t use a barcode, enter the text code below instead."
-//account.tfa.success = "Two Factor Authentication has successfully been enabled on your account."
+//account.logout_all = "모든 세션에서 로그아웃 됐음"
+//account.passwordreset.requested = "비밀번호 재설정 지침이 이메일로 전송되었습니다."
+//account.passwordreset.success = "비밀번호 초기화"
+//account.passwordchange.success = "비밀번호 변경"
+//account.activation.success = "계정 활성화"
+//account.activation.resent = "새로운 활성화 이메일이 귀하의 이메일로 발송되었습니다."
+//account.magic_link.requested = "매직 링크가 귀하의 이메일로 발송되었습니다."
+//account.tfa.backup = "복구 코드는 2 단계 인증 코드를받을 수없는 경우 계정에 액세스하는 데 사용됩니다. 계속하기 전에 안전한 곳에 보관하십시오."
+//account.tfa.scan = "휴대 전화의 2 단계 인증 앱으로 위 이미지를 스캔하십시오. 바코드를 사용할 수없는 경우 대신 아래에 텍스트 코드를 입력하십시오."
+//account.tfa.success = "계정에서 2 단계 인증이 활성화되었습니다."
 
 //Errors
 //error.unknown = "An unknown error occured, try again?"
@@ -49,6 +49,6 @@
 //error.invalid_token = "Invalid token"
 //error.no_token = "No token has been provided"
 //error.already_activated = "Account has already been activated"
-//error.no_account = "No account found"
-//error.no_changes = "No changes have been made"
-//error.tfa_already_enabled = "Two Factor Authentication has already been enabled on this account"
+//error.no_account = "계정을 찾을 수 없습니다"
+//error.no_changes = "변경 사항이 없습니다"
+//error.tfa_already_enabled = "이 계정에서 이미 이중 인증이 활성화되었습니다"
