@@ -2,7 +2,7 @@
 
 Help translate our platform into your own language.
 
-**It is highly advised you do not attempt to translate into a language which you are not relatively fluent in** 
+**It is highly advised you do not attempt to translate into a language which you are not relatively fluent in**
 
 ## Why translate?
 
@@ -15,10 +15,12 @@ Whilst you may be lucky enough to understand English to a certain degree, others
 2. Then, for you to be able to begin editing, you will need to [Fork this Repository](https://github.com/oxroio/translations/fork).
 
 3. Select the file(s) or location(s) where you wish to perform your translations ([see `What file am I looking for?`](#what-file-am-i-looking-for)).
-    * **If a file/directory with your two letter language code does not exist**, you'll need to create it. Put it in the correct location (see others for an example) and name it with either the two letter language code - `xx.oxro` (replacing xx with code) or the valid page name (again, see what others have done for a reference). Then, copy the contents of `new.oxro` or, if you created a directory, the `new/` folder into your newly created file(s) for guidance (if required).
 
-4. You may now begin translating from English into your language of choice. Removing  the `//` infront of whatever you decide to translate so our system knows a translation is available for the said "key" in your language. E.g `//account.creation.activation = "Success"` would become `account.creation.activation = "Success"`
-    * If you are unsure of what a certain "key" means, [open an issue here](https://github.com/oxroio/translations/issues) or email us - [translations@oxro.io](mailto:translations@oxro.io)
+   - **If a file/directory with your two letter language code does not exist**, you'll need to create it. Put it in the correct location (see others for an example) and name it with either the two letter language code - `xx.oxro` (replacing xx with code) or the valid page name (again, see what others have done for a reference). Then, copy the contents of `new.oxro` or, if you created a directory, the `new/` folder into your newly created file(s) for guidance (if required).
+
+4. You may now begin translating from English into your language of choice. Removing the `//` infront of whatever you decide to translate so our system knows a translation is available for the said "key" in your language. E.g `//account.creation.activation = "Success"` would become `account.creation.activation = "Success"`
+
+   - If you are unsure of what a certain "key" means, [open an issue here](https://github.com/oxroio/translations/issues) or email us - [translations@oxro.io](mailto:translations@oxro.io)
 
 5. When you've finished translating some or all of the "keys", [create a pull request](https://guides.github.com/activities/forking/#making-a-pull-request) so we can implement it into our official Repository and have it reflected across our platform. Within a pull request, please leave the information required for us to add you to the sites credit (Your Name/Alias and [optionally] your website/social platform) and/or your Oxro username so we can add your rewards to your account.
 
@@ -51,7 +53,7 @@ Variables can also be used in email templates. Paste them in exactly as they are
 
 `{{fromUser}}`: The user that caused such an email to send (invitation e.t.c)
 
-`{{storefront}}`: The name of the storefront that caused such an email to send (invitation e.t.c).
+`{{project}}`: The name of the storefront that caused such an email to send (invitation e.t.c).
 
 `{{link}}`: The link associated with the action of the email (e.g activation link) **Only to be used in plaintext (non HTML) emails**
 

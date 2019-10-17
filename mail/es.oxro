@@ -27,8 +27,8 @@ account.new_location.plain = "Se detectó una nueva ubicación de inicio de sesi
 account.new_location.buttonText = "Confirmar Ubicación"
 
 //Invited to control storefront
-invite.control.body = "{{fromUser}} le ha invitado a controlar {{storefront}}! Para aceptar, haga clic en el botón de abajo."
-invite.control.plain = "{{fromUser}} le ha invitado a controlar {{storefront}}! Para aceptar, pegue el siguiente enlace en su navegador: {{link}}"
+invite.control.body = "{{fromUser}} le ha invitado a controlar {{project}}! Para aceptar, haga clic en el botón de abajo."
+invite.control.plain = "{{fromUser}} le ha invitado a controlar {{project}}! Para aceptar, pegue el siguiente enlace en su navegador: {{link}}"
 invite.control.buttonText = "Aceptar Invitación"
 
 //Invited to join oxro

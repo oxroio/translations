@@ -27,8 +27,8 @@
 //account.new_location.buttonText = "Confirm Location"
 
 //Invited to control storefront
-//invite.control.body = "{{fromUser}} has invited you to control {{storefront}}! To accept, click on the button below."
-//invite.control.plain = "{{fromUser}} has invited you to control {{storefront}}! To accept, paste the following link in your browser: {{link}}"
+//invite.control.body = "{{fromUser}} has invited you to control {{project}}! To accept, click on the button below."
+//invite.control.plain = "{{fromUser}} has invited you to control {{project}}! To accept, paste the following link in your browser: {{link}}"
 //invite.control.buttonText = "Accept Invite"
 
 //Invited to join oxro

@@ -27,8 +27,8 @@
 //account.new_location.buttonText = "위치 확인"
 
 //Invited to control storefront
-//invite.control.body = "{{fromUser}} has invited you to control {{storefront}}! 동의하려면 아래 버튼을 클릭하십시오."
-//invite.control.plain = "{{fromUser}} has invited you to control {{storefront}}! To accept, paste the following link in your browser: {{link}}"
+//invite.control.body = "{{fromUser}} has invited you to control {{project}}! 동의하려면 아래 버튼을 클릭하십시오."
+//invite.control.plain = "{{fromUser}} has invited you to control {{project}}! To accept, paste the following link in your browser: {{link}}"
 //invite.control.buttonText = "초대 수락"
 
 //Invited to join oxro
