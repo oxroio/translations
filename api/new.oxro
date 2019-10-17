@@ -57,4 +57,5 @@
 //error.no_account = "No account found"
 //error.no_changes = "No changes have been made"
 //error.tfa_already_enabled = "Two Factor Authentication has already been enabled on this account"
+//error.no_permission = "Invalid permissions"
 
