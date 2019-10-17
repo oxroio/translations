@@ -39,12 +39,17 @@
 //account.tfa.scan = "Scan the image above with the two-factor authentication app on your phone. If you can’t use a barcode, enter the text code below instead."
 //account.tfa.success = "Two Factor Authentication has successfully been enabled on your account."
 
+//Projects
+//projects.creation.success = "Project has been created successfully"
+
 //Errors
 //error.unknown = "An unknown error occured, try again?"
 //error.not_found = "Endpoint not found, check your spelling?"
 //error.not_provided = "Has not been provided"
 //error.no_tos = "You need to agree to the terms of service"
 //error.secure_password = "Must contain characters and numbers"
+//error.rate_limited = "You're being rate-limited"
+//error.too_many = "You've reached your maximum allowance for such a resource"
 //error.in_use = "In use, try another"
 //error.invalid_token = "Invalid token"
 //error.no_token = "No token has been provided"
