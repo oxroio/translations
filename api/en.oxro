@@ -39,6 +39,9 @@ account.tfa.backup = "Recovery codes are used to access your account in the even
 account.tfa.scan = "Scan the image above with the two-factor authentication app on your phone. If you can’t use a barcode, enter the text code below instead."
 account.tfa.success = "Two Factor Authentication has successfully been enabled on your account."
 
+//Projects
+projects.creation.success = "Project has been created successfully"
+
 //Errors
 error.unknown = "An unknown error occured, try again?"
 error.not_found = "Endpoint not found, check your spelling?"
