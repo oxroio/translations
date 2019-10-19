@@ -2,22 +2,22 @@
 //hello = "안녕하세요"
 //welcome = "환영합니다"
 //thanks = "감사합니다"
-//kindregards = "Kind Regards"
+//kindregards = "진정으로"
 
 //Mail footer
 //contact = "연락 & 지원"
-//copyright = "Copyright (c) 2019 Oxro, LTD. 판권 소유."
+//copyright = "저작권 (c) 2019 Oxro, LTD. 판권 소유."
 
 //Account Created (please activate)
-//account.created.body = "An account for Oxro was created under this email. If you don't recognize this activity, you can disregard this email.\nIf it was, please click on the button below to activate your account and get started:"
-//account.created.plain = "An account for Oxro was created under this email. If you don't recognize this activity, you can disregard this email. If it was, please paste the following link in your browser to activate your account and get started: {{link}}"
+//account.created.body = "이 이메일에서 Oxro 계정이 생성되었습니다. 이 활동을 인식하지 못하면이 이메일을 무시해도됩니다.\n그렇다면 아래 버튼을 클릭하여 계정을 활성화하고 시작하십시오."
+//account.created.plain = "이 이메일에서 Oxro 계정이 생성되었습니다. 이 활동을 인식하지 못하면이 이메일을 무시해도됩니다. 이 경우 브라우저에 다음 링크를 붙여 넣어 계정을 활성화하고 시작하십시오.: {{link}}"
 //account.created.buttonText = "계정 활성화"
 //account.created.title = "계정 활성화"
 //account.created.subject = "Oxro 계정 활성화"
 
 //Account password reset
-//account.password_reset.body = "It looks like you've lost your password. Don't worry, luckily you can reset it by clicking on the button below. However, if you did not request a password reset, you can disregard this email and nothing further will become of it.\nThis will expire in 10 minutes."
-//account.password_reset.plain = "It looks like you've lost your password. Don't worry, luckily you can reset it by clicking on the following link in your browser: {{link}}. However, if you did not request a password reset, you can disregard this email and nothing further will become of it. This link will expire in 10 minutes."
+//account.password_reset.body = "당신은 비밀번호를 잊어 버린 것 같습니다. 다행히도 아래 버튼을 클릭하여 재설정 할 수 있습니다. 하지만 비밀번호 재설정을 요청하지 않은 경우이 이메일을 무시할 수 있습니다.\n링크는 10 분 후에 만료됩니다."
+//account.password_reset.plain = "당신은 비밀번호를 잊어 버린 것 같습니다. Don't worry, luckily you can reset it by clicking on the following link in your browser: {{link}}. 하지만 비밀번호 재설정을 요청하지 않은 경우이 이메일을 무시할 수 있습니다. 링크는 10 분 후에 만료됩니다."
 //account.password_reset.buttonText = "비밀번호 재설"
 //account.password_reset.subject = "Oxro 비밀번호 복구" 
 
@@ -27,21 +27,21 @@
 //account.new_location.buttonText = "위치 확인"
 
 //Invited to control storefront
-//invite.control.body = "{{fromUser}} has invited you to control {{project}}! 동의하려면 아래 버튼을 클릭하십시오."
-//invite.control.plain = "{{fromUser}} has invited you to control {{project}}! To accept, paste the following link in your browser: {{link}}"
+//invite.control.body = "{{fromUser}} 는 당신을 {{project}}을 통제하도록 초대했습니다! 동의하려면 아래 버튼을 클릭하십시오."
+//invite.control.plain = "{{fromUser}} 는 당신을 {{project}}을 통제하도록 초대했습니다! 수락하려면 브라우저에 다음 링크를 붙여 너으십시오.: {{link}}"
 //invite.control.buttonText = "초대 수락"
 
 //Invited to join oxro
-//invite.join.body = "{{fromUser}} has invited you to join Oxro! 아래 버튼을 클릭하여 초대에 액세스하십시오."
-//invite.join.plain = "{{fromUser}} has invited you to join Oxro! Access the invitation by pasting the link in your browser: {{link}}"
+//invite.join.body = "{{fromUser}}는 Oxro에 당신을 초대했습니다! 아래 버튼을 클릭하여 초대에 액세스하십시오."
+//invite.join.plain = "{{fromUser}}는 Oxro에 당신을 초대했습니다! Access the invitation by pasting the link in your browser: {{link}}"
 //invite.join.buttonText = "초대 수락"
 
 //Magic link login
 //account.magic_link.body = "You requested to authenticate yourself without a password via a magic link. If this was indeed you and you wish to proceed, please click the button below. 그렇지 않은 경우이 이메일을 무시해도됩니다."
 //account.magic_link.plain = "You requested to authenticate yourself without a password via a magic link. If this was indeed you and you wish to proceed, please follow this link: {{link}}. 그렇지 않은 경우이 이메일을 무시해도됩니다."
 //account.magic_link.buttonText = "본인 인증"
-//account.magic_link.title = "Authenticate yourself"
-//account.magic_link.subject = "Oxro Passwordless Authentication Request"
+//account.magic_link.title = "자신 인증"
+//account.magic_link.subject = "비밀번호없는 Oxro 인증 요청"
 
 //Invited to join oxro beta
 //invite.beta.body= "You have been invited by the Oxro team to join Oxro! Click on the button below to sign up to access an exclusive look and experience of Oxro!"
