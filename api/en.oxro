@@ -21,9 +21,8 @@ valid = "Valid"
 //Messages
 
 //General
-//Characters is already translated. Don't add it here.
-input.short = "Must be at least"
-input.long = "Must be less than"
+input.short = "Must be at least {{value}} characters"
+input.long = "Must be less than {{value}} characters"
 
 //Account
 account.creation.success = "Account created, please check your email."
