@@ -42,6 +42,7 @@ account.tfa.success = "Two Factor Authentication has successfully been enabled o
 projects.creation.success = "Project has been created successfully"
 projects.invite.success = "User has been invited. Have them check their Email."
 projects.invite.already = "User is already a member"
+project.invite.not_allowed = "You're not able to join this project, have you been given an invite?"
 //Errors
 error.unknown = "An unknown error occured, try again?"
 error.not_found = "Endpoint not found, check your spelling?"
