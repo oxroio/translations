@@ -8,6 +8,8 @@ interested = "관심이 있습니까?"
 
 request = "조기 액세스 요청"
 
+email = "이메일"
+
 //Sadly two parts as second part is a link
 consenting = "업데이트를 요청하면, 당신은 우리의 {{privacy_link}}에 동의합니다"
 
