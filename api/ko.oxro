@@ -22,8 +22,8 @@
 
 //General
 //Characters is already translated. Don't add it here.
-//input.short = "최소한 있어야합니다"
-//input.long = "보다 작아야합니다"
+//input.short = "{{value}}자 이상이어야합니다"
+//input.long = "{{value}}자 미만이어야합니다"
 
 //Account
 //account.creation.success = "계정이 생성되었습니다. 이메일을 확인하십시오."
