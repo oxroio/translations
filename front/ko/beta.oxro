@@ -8,14 +8,15 @@ interested = "관심이 있습니까?"
 
 request = "조기 액세스 요청"
 
-email = "이메일"
+
 
 //Sadly two parts as second part is a link
 consenting = "업데이트를 요청하면, 당신은 우리의 {{privacy_link}}에 동의합니다"
 
 privacy_policy = "개인정보 처리방침"
 
-done = "완료!" 
+done = "완료!"
+email = "이메일"
 
 success = "관심을 가져 주셔서 감사합니다! 첫 공개 베타 버전이 출시되면 이메일을 보내드립니다."
 
