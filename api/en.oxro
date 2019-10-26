@@ -19,6 +19,7 @@ valid = "Valid"
 
 
 //Messages
+updated = "Updated"
 
 //General
 input.short = "Must be at least {{value}} characters"
