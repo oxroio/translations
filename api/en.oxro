@@ -47,7 +47,7 @@ projects.join.success = "Joined project"
 projects.invite.not_allowed = "You're not able to join this project, have you been given an invite?"
 //Errors
 error.unknown = "An unknown error occured, try again?"
-error.not_found = "Endpoint not found, check your spelling?"
+error.not_found = "Not found, check your spelling?"
 error.not_provided = "Has not been provided"
 error.no_tos = "You need to agree to the terms of service"
 error.secure_password = "Must contain characters and numbers"
