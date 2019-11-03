@@ -47,3 +47,6 @@ account.magic_link.subject = "Solicitud de autenticación sin contraseña de Oxr
 invite.beta.body= "¡Has sido invitado por el equipo de Oxro a unirte a Oxro! Haga clic en el botón de abajo para registrarse para acceder a un aspecto exclusivo y la experiencia de Oxro!"
 invite.beta.plain = "¡Has sido invitado por el equipo de Oxro a unirte a Oxro! Pega el siguiente enlace en tu navegador para registrarte y acceder a un aspecto y una experiencia exclusivos de Oxro: {{link}}."
 invite.beta.buttonText = "Aceptar Invitación"
+
+//Missing translations:
+invite.control.subject = "[Oxro] {{fromUser}} has invited you to join the {{project}} project"

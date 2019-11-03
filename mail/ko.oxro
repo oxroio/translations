@@ -47,3 +47,6 @@
 //invite.beta.body= "당신은 Oxro 팀에 의해 Oxro에 초대되었습니다! Oxro의 독점적 경험에 액세스하려면 아래 버튼을 클릭하십시오!"
 //invite.beta.plain = "당신은 Oxro 팀에 의해 Oxro에 초대되었습니다! Oxro의 독점 경험에 액세스하려면 브라우저에 다음 링크를 붙여 넣으십시오.: {{link}}."
 //invite.beta.buttonText = "초대 수락"
+
+//Missing translations:
+invite.control.subject = "[Oxro] {{fromUser}} has invited you to join the {{project}} project"
