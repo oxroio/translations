@@ -53,7 +53,6 @@ error.no_account = "No se ha encontrado ninguna cuenta"
 error.no_changes = "No se han realizado cambios"
 error.tfa_already_enabled = "La Autenticación de Dos Factores ya se ha habilitado en esta cuenta"
 
-
 //Missing translations:
 //updated = "Updated"
 //projects.creation.success = "Project has been created successfully"
