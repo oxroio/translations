@@ -49,48 +49,5 @@ invite.beta.plain = "¡Has sido invitado por el equipo de Oxro a unirte a Oxro! 
 invite.beta.buttonText = "Aceptar Invitación"
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 //Missing translations:
-invite.control.subject = "[Oxro] {{fromUser}} has invited you to join the {{project}} project"
+//invite.control.subject = "[Oxro] {{fromUser}} has invited you to join the {{project}} project"
