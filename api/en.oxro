@@ -46,6 +46,8 @@ projects.join.success = "Joined project"
 projects.invite.not_allowed = "You're not able to join this project, have you been given an invite?"
 projects.role.changed = "Role updated"
 //Errors
+error.file_type = "Unaccepted file type"
+error.file_size = "File is too large"
 error.unknown = "An unknown error occured, try again?"
 error.not_found = "Not found, check your spelling?"
 error.not_provided = "Has not been provided"
