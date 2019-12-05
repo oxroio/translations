@@ -1,5 +1,5 @@
 welcome_back = "Welcome Back"
-create_instead = "Don't have an account? Register {{here}}"
+create_instead = "Don't have an account? Register"
 here = "here"
 login_method = "Select your login method:"
 magic_login = "Send me a magic link"
