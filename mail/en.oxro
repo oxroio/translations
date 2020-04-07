@@ -6,7 +6,7 @@ kindregards = "Kind Regards"
 
 //Mail footer
 contact = "Contact & Support"
-copyright = "Copyright (c) 2019 Oxro, LTD. All rights reserved."
+copyright = "Copyright (c) 2019 - {{year}} Oxro, LTD. All rights reserved."
 
 //Account Created (please activate)
 account.created.body = "An account for Oxro was created under this email. If you don't recognize this activity, you can disregard this email.\nIf it was, please click on the button below to activate your account and get started:"
